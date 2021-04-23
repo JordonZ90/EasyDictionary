@@ -1,0 +1,16 @@
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\bin\Debug\net5.0\TheDictionary.exe
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\bin\Debug\net5.0\TheDictionary.deps.json
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\bin\Debug\net5.0\TheDictionary.runtimeconfig.json
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\bin\Debug\net5.0\TheDictionary.runtimeconfig.dev.json
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\bin\Debug\net5.0\TheDictionary.dll
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\bin\Debug\net5.0\ref\TheDictionary.dll
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\bin\Debug\net5.0\TheDictionary.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\obj\Debug\net5.0\TheDictionary.csprojAssemblyReference.cache
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\obj\Debug\net5.0\TheDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\obj\Debug\net5.0\TheDictionary.AssemblyInfoInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\obj\Debug\net5.0\TheDictionary.AssemblyInfo.cs
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\obj\Debug\net5.0\TheDictionary.csproj.CoreCompileInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\obj\Debug\net5.0\TheDictionary.dll
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\obj\Debug\net5.0\ref\TheDictionary.dll
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\obj\Debug\net5.0\TheDictionary.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\DictionaryCreation\TheDictionary\TheDictionary\obj\Debug\net5.0\TheDictionary.genruntimeconfig.cache

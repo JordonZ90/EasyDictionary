@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vj2S0o8MsfwjQsEO5qyiXuV32B3swcE7uIQXqLPtb2oFYQ8/QDHmIrlszdHW2Zfpf/TZgEbi1/TN5m9McSFqPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User-Ryzen\\Desktop\\GitC#\\DictionaryCreation\\TheDictionary\\TheDictionary\\TheDictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User-Ryzen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User-Ryzen\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\User-Ryzen\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\User-Ryzen\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
